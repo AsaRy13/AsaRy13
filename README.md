@@ -26,7 +26,7 @@ My name is Ryan, a student at Brigham Young University-Idaho interested in Compu
 ## Technologies and Tools
 
 - Proficient in: HTML, CSS, C#, and Python.
-- Skills: Attention to detail, thourogh, and inquisitive.
+- Skills: Attention to detail, thorough, and inquisitive.
 
 ## Let's Connect!
 
